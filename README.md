@@ -24,7 +24,7 @@ and reporting.
 | 📊 Reports | Generate vehicle entry/exit reports by date range |
 | 🔍 Search | Search vehicles by parking number |
 | 👤 Admin Panel | Secure admin login, profile management, password recovery |
-| 🎫 Ticket Printing | Print parking tickets for vehicles |
+| 🎫 Ticket Printing / E-Tickets | Print parking tickets for vehicles / E-Tickets |
 
 
 - 📊 Dashboard — real-time vehicle entry count
