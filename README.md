@@ -46,7 +46,7 @@ Booking Parking Slot
      ↓
 Payment Processing
      ↓
-Print Parking Ticket
+Print Parking Ticket / E-Tickets
 ```
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-purple?style=flat)
